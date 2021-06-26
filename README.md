@@ -34,10 +34,16 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 🍿 View of scrolling through list of movies
+
 <img src='https://github.com/jackjnn/Flixster/blob/master/flixsterscroll.gif' title='' width='' alt='Video Walkthrough' />
 
+🚶‍♂️ Navigate to movie profile
 
-<img src='' title='' width='' alt='' />
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterscroll2.gif' title='' width='' alt='Navigate to movie profile' />
+
+📺 Navigate to watch movie
+
+<img src=' ' title='' width='' alt='Navigate to watch movie' />
 
 GIF created with [Kap](https://getkap.co/).
 
