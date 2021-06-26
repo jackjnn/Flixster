@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 
 🚶‍♂️ Navigate to movie profile
 
-<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterscroll2.gif' title='' width='300' alt='Navigate to movie profile' />
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterscroll2.gif' title='' width='500' alt='Navigate to movie profile' />
 
 📺 Navigate to watch movie
 
