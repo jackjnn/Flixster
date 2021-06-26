@@ -43,7 +43,11 @@ Here's a walkthrough of implemented user stories:
 
 📺 Navigate to watch movie
 
-<img src=' ' title='' width='' alt='Navigate to watch movie' />
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterwatch.gif' title='' width='500' alt='Navigate to watch movie' />
+
+🌆 Navigate on Landscape mode
+
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterlandscape.gif' title='' width='500' alt='Navigate on landscape mode' />
 
 GIF created with [Kap](https://getkap.co/).
 
