@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 
 🌆 Navigate on Landscape mode
 
-<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterlandscape.gif' title='' width='500' alt='Navigate on landscape mode' />
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterlandscape.gif' title='' height='500' alt='Navigate on landscape mode' />
 
 GIF created with [Kap](https://getkap.co/).
 
