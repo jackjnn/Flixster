@@ -49,6 +49,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/jackjnn/Flixster/blob/master/flixsterlandscape.gif' title='' height='500' alt='Navigate on landscape mode' />
 
+🥳 Enjoy movie on fullscreen landscape
+
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterlandscapewatch.gif' title='' height='500' alt='Navigate on landscape mode' />
+
 GIF created with [Kap](https://getkap.co/).
 
 
