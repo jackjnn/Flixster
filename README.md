@@ -33,15 +33,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/Np0FjLMryBw7EZMIfd/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://media.giphy.com/media/mFvAwwqRvtUOK4xYVG/giphy.gif' title='' width='' alt='' />
+<img src=' ' title='' width='' alt='' />
+<img src='' title='' width='' alt='' />
 
 GIF created with GIPHY.
 
-## Notes
-
-Describe any challenges encountered while building the app.
-Since the guide for the placeholders was pretty broad, I had to ask and find another way of using the Glide library.
 
 ## Open-source libraries used
 
@@ -50,7 +46,7 @@ Since the guide for the placeholders was pretty broad, I had to ask and find ano
 
 ## License
 
-    Copyright [2021] [Mateo Martinez]
+    Copyright 2021 Jack Njoroge
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
