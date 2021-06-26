@@ -33,7 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterscroll.gif' title='' width='' alt='' />
+🍿 View of scrolling through list of movies
+<img src='https://github.com/jackjnn/Flixster/blob/master/flixsterscroll.gif' title='' width='' alt='Video Walkthrough' />
+
+
 <img src='' title='' width='' alt='' />
 
 GIF created with [Kap](https://getkap.co/).
