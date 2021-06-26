@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 <img src=' ' title='' width='' alt='' />
 <img src='' title='' width='' alt='' />
 
-GIF created with GIPHY.
+GIF created with [Kap](https://getkap.co/).
 
 
 ## Open-source libraries used
